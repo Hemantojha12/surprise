@@ -8,12 +8,17 @@ import Home from "@/pages/Home";
 import About from "@/pages/About";
 import Contact from "@/pages/Contact";
 
+import Gallery from "@/pages/Gallery";
+import Book from "@/pages/Book";
+
 function Router() {
   return (
     <Switch>
       <Route path="/" component={Home} />
       <Route path="/about" component={About} />
       <Route path="/contact" component={Contact} />
+      <Route path="/gallery" component={Gallery} />
+      <Route path="/book" component={Book} />
       <Route component={NotFound} />
     </Switch>
   );
