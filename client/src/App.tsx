@@ -10,6 +10,7 @@ import Contact from "@/pages/Contact";
 
 import Gallery from "@/pages/Gallery";
 import Book from "@/pages/Book";
+import Packages from "@/pages/Packages";
 
 function Router() {
   return (
@@ -18,6 +19,7 @@ function Router() {
       <Route path="/about" component={About} />
       <Route path="/contact" component={Contact} />
       <Route path="/gallery" component={Gallery} />
+      <Route path="/packages" component={Packages} />
       <Route path="/book" component={Book} />
       <Route component={NotFound} />
     </Switch>
