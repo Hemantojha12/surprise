@@ -6,8 +6,10 @@ import { Menu, X } from "lucide-react";
 
 const links = [
   { href: "/", label: "Portfolio" },
+  { href: "/gallery", label: "Gallery" },
   { href: "/about", label: "About" },
   { href: "/contact", label: "Contact" },
+  { href: "/book", label: "Book Appointment" },
 ];
 
 export function Navigation() {
@@ -20,7 +22,7 @@ export function Navigation() {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border/40">
       <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
         <Link href="/" className="text-2xl font-serif font-bold tracking-tight">
-          LENA.
+          SHUTTER SURPRISE.
         </Link>
 
         {/* Desktop Nav */}

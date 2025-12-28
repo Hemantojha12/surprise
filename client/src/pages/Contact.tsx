@@ -150,15 +150,15 @@ export default function Contact() {
             <div>
               <h3 className="font-serif italic text-xl mb-2">Contact</h3>
               <p className="text-muted-foreground font-light text-sm">
-                hello@lena.com<br/>
+                hello@shuttersurprise.com<br/>
                 +1 (555) 123-4567
               </p>
             </div>
             <div>
               <h3 className="font-serif italic text-xl mb-2">Social</h3>
               <p className="text-muted-foreground font-light text-sm">
-                @lenaphoto<br/>
-                behance.net/lena
+                @shuttersurprise<br/>
+                behance.net/shuttersurprise
               </p>
             </div>
           </div>

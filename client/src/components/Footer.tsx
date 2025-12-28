@@ -19,12 +19,12 @@ export function Footer() {
             <a href="#" className="hover:text-gray-300 transition-colors">
               <Twitter className="w-6 h-6" />
             </a>
-            <a href="mailto:hello@lena.com" className="hover:text-gray-300 transition-colors">
+            <a href="mailto:hello@shuttersurprise.com" className="hover:text-gray-300 transition-colors">
               <Mail className="w-6 h-6" />
             </a>
           </div>
           <p className="text-sm text-gray-500 uppercase tracking-wider">
-            © 2024 Lena Photography. All Rights Reserved.
+            © 2024 ShutterSurprise Photography. All Rights Reserved.
           </p>
         </div>
       </div>

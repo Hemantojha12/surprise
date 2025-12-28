@@ -20,7 +20,7 @@ export default function About() {
                {/* Photographer portrait placeholder */}
               <img 
                 src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?q=80&w=1000&auto=format&fit=crop" 
-                alt="Portrait of Lena"
+                alt="Portrait of Hemant Ojha"
                 className="w-full h-full object-cover filter grayscale"
               />
             </div>
@@ -35,11 +35,11 @@ export default function About() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="flex flex-col space-y-8"
           >
-            <h1 className="text-5xl md:text-7xl font-serif">Behind the lens.</h1>
+            <h1 className="text-5xl md:text-7xl font-serif">Behind the camera.</h1>
             
             <div className="space-y-6 text-lg font-light text-muted-foreground leading-relaxed">
               <p>
-                My name is Lena, and I see the world in monochrome. I believe that removing color reveals the soul of a subject, stripping away distractions to focus on texture, emotion, and light.
+                My name is Hemant Ojha, and I see the world in monochrome. I believe that removing color reveals the soul of a subject, stripping away distractions to focus on texture, emotion, and light.
               </p>
               <p>
                 Based in New York City, I specialize in editorial portraiture and architectural photography. My work has been featured in leading design publications and exhibited in galleries across Europe and North America.
