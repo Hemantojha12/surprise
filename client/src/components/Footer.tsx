@@ -11,8 +11,12 @@ export function Footer() {
           </p>
         </div>
         
-        <div className="flex flex-col md:items-end gap-8">
-          <div className="flex gap-6">
+        <div className="flex flex-col md:items-end gap-8 text-right">
+          <div className="space-y-2">
+            <p className="text-gray-400 font-light">hello@shuttersurprise.com</p>
+            <p className="text-gray-400 font-light">+1 (555) 123-4567</p>
+          </div>
+          <div className="flex gap-6 justify-end">
             <a href="#" className="hover:text-gray-300 transition-colors">
               <Instagram className="w-6 h-6" />
             </a>
