@@ -14,7 +14,7 @@ export function Footer() {
         <div className="flex flex-col md:items-end gap-8 text-right">
           <div className="space-y-2">
             <p className="text-gray-400 font-light">hello@shuttersurprise.com</p>
-            <p className="text-gray-400 font-light">+1 (555) 123-4567</p>
+            <p className="text-gray-400 font-light">+977-9865805575</p>
           </div>
           <div className="flex gap-6 justify-end">
             <a href="#" className="hover:text-gray-300 transition-colors">
@@ -28,7 +28,7 @@ export function Footer() {
             </a>
           </div>
           <p className="text-sm text-gray-500 uppercase tracking-wider">
-            © 2024 ShutterSurprise Photography. All Rights Reserved.
+            © 2025 ShutterSurprise Photography. All Rights Reserved.
           </p>
         </div>
       </div>

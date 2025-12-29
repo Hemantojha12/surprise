@@ -8,7 +8,7 @@ import { Link } from "wouter";
 const packages = [
   {
     name: "Essential",
-    price: "$299",
+    price: "Rs 30000",
     description: "Perfect for personal portraits and social media presence.",
     features: [
       "1.5 Hour Session",
@@ -20,7 +20,7 @@ const packages = [
   },
   {
     name: "Professional",
-    price: "$599",
+    price: "Rs50000",
     description: "Ideal for editorial work, small brands, and professionals.",
     features: [
       "3 Hour Session",
@@ -34,7 +34,7 @@ const packages = [
   },
   {
     name: "Masterpiece",
-    price: "$1,299",
+    price: "Rs95000",
     description: "Comprehensive package for large projects and complete collections.",
     features: [
       "Full Day Session (8 Hours)",

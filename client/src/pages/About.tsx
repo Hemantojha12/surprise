@@ -42,7 +42,7 @@ export default function About() {
                 My name is Hemant Ojha, and I see the world in monochrome. I believe that removing color reveals the soul of a subject, stripping away distractions to focus on texture, emotion, and light.
               </p>
               <p>
-                Based in New York City, I specialize in editorial portraiture and architectural photography. My work has been featured in leading design publications and exhibited in galleries across Europe and North America.
+                Based in Kathmandu City, I specialize in editorial portraiture and architectural photography. My work has been featured in leading design publications and exhibited in galleries across Nepal.
               </p>
               <p>
                 When I'm not shooting, I'm likely exploring brutalist architecture or developing film in my darkroom. I strive for minimalism in all things—my work, my home, and my lifestyle.
@@ -53,9 +53,9 @@ export default function About() {
               <div>
                 <h3 className="text-sm font-bold uppercase tracking-widest mb-2">Exhibitions</h3>
                 <ul className="text-sm text-muted-foreground space-y-1">
-                  <li>2023 - Shadows & Light, NYC</li>
-                  <li>2022 - Mono Collective, Berlin</li>
-                  <li>2021 - Form Follows, London</li>
+                  <li>2023 - Shadows & Light, </li>
+                  <li>2022 - Mono Collective, </li>
+                  <li>2021 - Form Follows, </li>
                 </ul>
               </div>
               <div>
